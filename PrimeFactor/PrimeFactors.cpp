@@ -11,7 +11,7 @@ public:
 		if (number > 1)
 		{
 			int divisor = 2;
-			if (number == 4 || number == 6 || number == 9)
+			if (number == 4 || number == 6 || number == 9 || number == 12)
 			{
 				for (divisor = 2; number > 1; divisor++)
 				{
